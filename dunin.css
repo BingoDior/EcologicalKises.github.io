@@ -1,0 +1,48 @@
+body{
+
+	
+    ;	
+}
+nav{
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.06); 
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+
+    max-width: 800px; 
+    padding: 2em 2em 4em
+
+}
+.id:hover{
+	border: #FFFFFF  solid;
+}
+
+.in{
+	background-color: #282923;
+	font-size: 50px;
+	text-align: center;
+
+}
+.in a{
+	padding: 200px;
+}
+
+a{
+	text-decoration: none;
+}
+.red{
+	color: #FFFFFF;
+	background-color:#282923; 
+	font-size:50px;
+	text-align: center;
+	
+
+}
+
+.lp{
+	background-color: black;
+	font-size: 100px;
+
+}
